@@ -1,0 +1,27 @@
+const mensagensErro = {
+    ID_PESSOA_INVALIDO: 'Por favor informe um id da pessoa válido',
+    NOME_PESSOA_INVALIDO: 'Por favor informe um nome válido para a pessoa',
+    ID_PAIS_INVALIDO: 'Por favor informe um id de país válido',
+    NOME_PAIS_INVALIDO: 'Por favor informe um nome válido para o pais',
+    ID_ESTADO_INVALIDO: 'Por favor informe um id de estado válido',
+    NOME_ESTADO_INVALIDO: 'Por favor informe um nome válido para o estado',
+    ID_CIDADE_INVALIDA: 'Por favor informe um id de cidade válido',
+    NOME_CIDADE_INVALIDA: 'Por favor informe um nome válido para a cidade',
+    ID_BAIRRO_INVALIDO: 'Por favor informe um id de bairro válido',
+    TELEFONE_PESSOA_INVALIDO: 'Por favor informe um telefone válido',
+    ID_CLIENTE_INVALIDO: 'O id do cliente informado é inválido',
+    ID_FORNECEDOR_INVALIDO: 'O id do fornecedor informado é inválido',
+    RUA_ENDERECO_INVALIDO: 'O nome da rua informado para o endereço é invalido',
+    NUMERO_ENDERECO_INVALIDO: 'O numero da rua informado para o endereço é invalido',
+    CEP_ENDERECO_INVALIDO: 'O CEP informado para o endereço é invalido',
+    ID_ENDERECO_INVALIDO: 'Por favor informe um id de endereço válido',
+    STATUS_COMPRA_INVALIDO: 'Por favor informe um status válido para a compra',
+    ID_COMPRA_INVALIDO: 'Por favor informe um id válido para a compra',
+    STATUS_VENDA_INVALIDO: 'Por favor informe um status válido para a venda',
+    ID_VENDA_INVALIDO: 'Por favor informe um id válido para a venda',
+    ID_PAGAMENTO_INVALIDO: 'Por favor informe um id válido para o pagamento',
+    ID_PRODUTO_INVALIDO: 'Por favor informe um id válido para o produto',
+    ID_ENTREGA_INVALIDO: 'Por favor informe um id válido para a entrega',
+}
+
+module.exports = mensagensErro;
